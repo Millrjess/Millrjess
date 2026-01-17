@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Millrjess
 - 👀 I’m interested in Data Analytics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me millrjess@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
