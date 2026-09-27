@@ -9,3 +9,7 @@ I give small businesses enterprise-level technical oversight without the enterpr
 - 📊 Tableau: https://public.tableau.com/app/profile/jessica.miller
 
 *Independent contractor (1099) — now accepting website management clients and contract engagements.*
+
+## Featured work
+
+- 🎬 [UX Design Mobile App — case study video walkthrough](https://www.youtube.com/watch?v=3eY3yojcT4g) — Foodie Explorer capstone: end-to-end UX process, every design decision explained.
